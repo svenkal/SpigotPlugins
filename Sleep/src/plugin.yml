@@ -1,0 +1,5 @@
+name: Sleep
+version: 1.0
+author: svenkal
+main: me.svenkal.sleep.Main
+api-version: 1.16

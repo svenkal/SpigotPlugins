@@ -1,0 +1,13 @@
+name: CreeperFun
+version: 0.1
+author: svenkal
+main: me.svenkal.creeperfun.Main
+api-version: 1.16
+commands:
+  creeperfunreload:
+    descripts: Reload the configuration file.
+    usage: /creeperfunreload
+permissions:
+  creeperfun.reload:
+    description: Allows you to reload the configuration file.
+    default: op
